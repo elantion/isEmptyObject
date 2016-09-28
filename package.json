@@ -1,5 +1,5 @@
 {
-  "name": "is-empty-object",
+  "name": "handy-is-empty-object",
   "version": "1.0.0",
   "description": "Check a object is empty",
   "main": "index.js",
