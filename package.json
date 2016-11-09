@@ -1,5 +1,5 @@
 {
-  "name": "handy-is-empty-object",
+  "name": "lc-is-empty-object",
   "version": "1.0.0",
   "description": "Check a object is empty",
   "main": "index.js",
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/elantion/isEmptyObject.git"
+    "url": "git+https://github.com/lazycoffee/lc-is-empty-object.git"
   },
   "author": "JamesYin",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/elantion/isEmptyObject/issues"
+    "url": "https://github.com/lazycoffee/lc-is-empty-object/issues"
   },
-  "homepage": "https://github.com/elantion/isEmptyObject#readme",
+  "homepage": "https://github.com/lazycoffee/lc-is-empty-object#readme",
   "dependencies": {
   }
 }
